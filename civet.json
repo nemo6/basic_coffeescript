@@ -1,5 +1,4 @@
 {
-	// C:\Users\Miguel\AppData\Roaming\Code\User\snippets
 	"Print to console": {
 		"prefix": "log",
 		"body": [
@@ -19,6 +18,6 @@
 		"body": [
 			"|> (x) => $1"
 		],
-		"description": "pipe"
+		"description": "C:\Users\Miguel\AppData\Roaming\Code\User\snippets\civet.json"
 	}
 }
