@@ -1,2 +1,3 @@
 # basic_coffeescript
-test
+
+    npm i -g @danielx/civet
