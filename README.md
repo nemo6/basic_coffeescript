@@ -2,6 +2,8 @@
 
 https://civet.dev/
 
+https://civet.dev/reference
+
 ```bash
 npm i -g @danielx/civet
 civet --js -c hello.civet -o hello.js
