@@ -1,7 +1,3 @@
-# basic_coffeescript
-
-N/A
-
 # Civet
 
 ```bash
