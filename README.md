@@ -1,5 +1,7 @@
 # Civet
 
+https://civet.dev/
+
 ```bash
 npm i -g @danielx/civet
 civet --js -c hello.civet -o hello.js
